@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name:'HelloWorld11111',
+  name:'HelloWorld11111xxx',
     data() {
         return {
            details: [
